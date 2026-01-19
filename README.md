@@ -49,9 +49,9 @@ To develop a reliable house price prediction model that captures the relationshi
 📂 Dataset
 
 
---- Ames Housing Dataset
+Ames Housing Dataset
 
---- Contains detailed information on residential properties such as:
+Contains detailed information on residential properties such as:
 
 --- Lot size
 
@@ -68,9 +68,9 @@ To develop a reliable house price prediction model that captures the relationshi
 📈 Model Evaluation
 
 
---- Evaluated using regression performance metrics
+--- Evaluated using regression performance metrics.
 
---- Focus on generalization and interpretability rather than overfitting
+--- Focus on generalization and interpretability rather than overfitting.
 
 
 
@@ -98,25 +98,12 @@ To develop a reliable house price prediction model that captures the relationshi
 
 
 
-🚀 How to Run
-
-
---- Clone the repository
-
---- Open the Jupyter Notebook
-
---- Run all cells sequentially
-
-
-
 ✅ Key Takeaways
 
 
---- Demonstrates end-to-end regression workflow
+--- Demonstrates end-to-end regression workflow.
 
---- Shows effective use of regularization
-
---- Suitable for academic, learning, and portfolio purposes
+--- Shows effective use of regularization.
 
 
 
