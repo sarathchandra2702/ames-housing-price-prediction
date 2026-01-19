@@ -19,75 +19,75 @@ To develop a reliable house price prediction model that captures the relationshi
 🧠 Model Used
 
 
-Elastic Net Linear Regression
+--- Elastic Net Linear Regression
 
-Combines L1 (Lasso) and L2 (Ridge) regularization
+--- Combines L1 (Lasso) and L2 (Ridge) regularization
 
-Helps with multicollinearity and feature selection
+--- Helps with multicollinearity and feature selection
 
 
 
 🛠️ Workflow
 
 
-Data loading and exploration
+--- Data loading and exploration
 
-Feature selection and preprocessing
+--- Feature selection and preprocessing
 
-Train-test split
+--- Train-test split
 
-Feature scaling using StandardScaler
+--- Feature scaling using StandardScaler
 
-Model training with Elastic Net
+--- Model training with Elastic Net
 
-Hyperparameter tuning using GridSearchCV
+--- Hyperparameter tuning using GridSearchCV
 
-Model evaluation on test data
+--- Model evaluation on test data
 
 
 
 📂 Dataset
 
 
-Ames Housing Dataset
+--- Ames Housing Dataset
 
-Contains detailed information on residential properties such as:
+--- Contains detailed information on residential properties such as:
 
-Lot size
+--- Lot size
 
-Number of rooms
+--- Number of rooms
 
-Year built
+--- Year built
 
-Overall quality
+--- Overall quality
 
-Neighborhood features
+--- Neighborhood features
 
 
 
 📈 Model Evaluation
 
 
-Evaluated using regression performance metrics
+--- Evaluated using regression performance metrics
 
-Focus on generalization and interpretability rather than overfitting
+--- Focus on generalization and interpretability rather than overfitting
 
 
 
 🧪 Technologies Used
 
 
-Python
+--- Python
 
-NumPy
+--- NumPy
 
-Pandas
+--- Pandas
 
-Matplotlib
+--- Matplotlib
 
-Seaborn
+--- Seaborn
 
-Scikit-learn
+--- Scikit-learn
 
 
 
@@ -101,30 +101,30 @@ Scikit-learn
 🚀 How to Run
 
 
-Clone the repository
+--- Clone the repository
 
-Open the Jupyter Notebook
+--- Open the Jupyter Notebook
 
-Run all cells sequentially
+--- Run all cells sequentially
 
 
 
 ✅ Key Takeaways
 
 
-Demonstrates end-to-end regression workflow
+--- Demonstrates end-to-end regression workflow
 
-Shows effective use of regularization
+--- Shows effective use of regularization
 
-Suitable for academic, learning, and portfolio purposes
+--- Suitable for academic, learning, and portfolio purposes
 
 
 
 📌 Future Improvements
 
 
-Try advanced models (XGBoost, Random Forest)
+--- Try advanced models (XGBoost, Random Forest)
 
-Feature engineering
+--- Feature engineering
 
-Cross-validation comparisons
+--- Cross-validation comparisons
